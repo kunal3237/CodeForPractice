@@ -8,7 +8,7 @@ phases:
   build:
     
     commands:
-      - docker built -t kunal3237/myfirtcodebuild .
+      - docker build -t kunal3237/myfirtcodebuild .
       - echo "With Dockerfile"
     
   post_build:
