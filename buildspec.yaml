@@ -4,7 +4,7 @@ phases:
   pre_build:
     commands:
       - git clone https://github.com/kunal3237/CodeForPractice.git
-      - docker login -u "*************" -p "*****************"
+      - docker login -u "kunal.sharma37@gmail.com" -p "exkimakichut$"
     
   build:
     
